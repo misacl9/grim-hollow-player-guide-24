@@ -8,7 +8,7 @@ This repository includes data files for:
 * **Subclasses**
 * **Spells**
 
-All material is adapted for use within the companion app to help streamline gameplay and character creation.
+All material was created within the companion app and published to github to help streamline gameplay and character creation.
 
 ## Legal
 
