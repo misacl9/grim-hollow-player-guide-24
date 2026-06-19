@@ -7,7 +7,7 @@ This project is intended as an easily-accessible digital reference for products 
 This repository includes data files for:
 
 * **Subclasses** (2/40)
-* **Spells**
+* **Spells** (Paladin, Ranger)
 
 All material was created within the companion app and published to github to help streamline gameplay and character creation.
 
