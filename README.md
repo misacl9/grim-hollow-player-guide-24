@@ -9,6 +9,7 @@ This repository includes data files for:
 * **Subclasses** (2/40)
 * **Spells** (Paladin, Ranger)
 * **Species** (4/17)
+* **Transformations** (Specter)
 
 All material was created within the companion app and published to github to help streamline gameplay and character creation.
 
